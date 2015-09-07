@@ -11,3 +11,7 @@ assets/videos/
 
 !assets/videos/tour_*.mp4
 # question: would log/archive/access.log be ignored? Not the wildcard or astresk represents just file name charagters, not folder name with slashes
+
+*.mp3
+*.doc
+*.docx
